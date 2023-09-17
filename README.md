@@ -20,6 +20,6 @@ I have a diverse skill set that spans both the front-end and back-end of web dev
 I'm always excited to collaborate on interesting projects, exchange ideas, or simply chat about the latest trends in technology. Feel free to reach out to me on GitHub or connect with me on LinkedIn. Let's build amazing things together!
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-%40Vishalvishwakarma11-blue)](https://github.com/Vishalvishwakarma11)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%40vishal-vishwakarma-472365215-blue)](https://www.linkedin.com/in/vishal-vishwakarma-472365215)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%40vishal-vishwakarma-472365215-blue)](https://www.linkedin.com/in/vishal-vishwakarma-472365215/)
 
 Looking forward to our journey together in the world of tech! 🚀
