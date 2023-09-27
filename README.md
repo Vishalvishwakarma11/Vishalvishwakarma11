@@ -7,7 +7,7 @@ I'm a passionate and experienced Full-Stack Developer with a love for creating e
 I have a diverse skill set that spans both the front-end and back-end of web development. Here are some of my areas of expertise:
 
 - **Front-End Development:** I'm proficient in HTML, CSS, and JavaScript, and I have extensive experience with popular front-end libraries and frameworks like React.
-- **Back-End Development:** I specialize in building robust server-side applications using technologies such as Node.js and Express.js. I'm also skilled in database design and management with MongoDB, SQL and NoSQL databases.
+- **Back-End Development:** I specialize in building robust server-side applications using technologies such as Node.js and Express.js. I'm also skilled in database design and management with MongoDB and SQL databases.
 
 ## 🌟 What Sets Me Apart
 
